@@ -1,2 +1,2 @@
 # hashawks
-My repository
+My repository practices
